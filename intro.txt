@@ -1,0 +1,5 @@
+=== SpaceXplorer ===
+Embark on an interstellar journey!
+Collect space junk, avoid asteroids, and survive.
+Recycle junk for fuel and repair your ship.
+Beware of alien encounters!
